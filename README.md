@@ -2,9 +2,9 @@
 
 # HWMNGR API
 
-This API lets you keep track of your assignments (and I guess everyone else's). 
+This API lets you keep track of your assignments. 
 
-Currently hosted on `https://krrishk.hackclub.app/`.
+No longer hosted!
 
 ## How to Input Assignments
 
